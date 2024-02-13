@@ -3,5 +3,8 @@
     "version": "0.0.0",
     "description": "type challenge",
     "author": "jochong",
-    "license": "ISC"
+    "license": "ISC",
+    "dependencies": {
+        "@type-challenges/utils": "^0.1.1"
+    }
 }
